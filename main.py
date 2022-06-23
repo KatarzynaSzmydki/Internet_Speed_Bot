@@ -15,7 +15,7 @@ with open('credentials.txt') as f:
     credentials = json.loads(f.read())
 chrome_driver_path = "C:/Users/kszmy/Desktop/chromedriver.exe"
 GS_CREDENTIALS_PATH = "C:\\Users\\kszmy\\PycharmProjects\\Internet_Speed_Bot\\weather-email-sender-7143f7051a34.json"
-PROMISED_DOWN = 160
+PROMISED_DOWN = 150
 PROMISED_UP = 10
 
 
